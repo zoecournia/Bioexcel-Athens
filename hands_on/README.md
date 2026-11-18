@@ -93,7 +93,8 @@ We will eventually use dataset available [here](https://drive.google.com/drive/f
 
 ### HADDOCK — tutorial
 
-- [HADDOCK tutorial: Modelling the RNA polymerase III complex using cross-links and starting conformations fitted into the cryo-EM map](https://www.bonvinlab.org/education/HADDOCK24/RNA-Pol-III-2024/#modelling-the-complex-by-docking-with-cross-links-only-using-as-starting-conformations-the-models-fitted-into-the-cryo-em-map)
+- [HADDOCK tutorial: Modelling the RNA polymerase III complex using cross-links and starting conformations fitted into the cryo-EM map](https://www.bonvinlab.org/education/HADDOCK24/RNA-Pol-III/#modelling-the-complex-by-docking-with-cross-links-only-using-as-starting-conformations-the-models-fitted-into-the-cryo-em-map)
+- [HADDOCK3 tutorial: Modelling an antibody-antigen complex (Google Colab notebook)](https://colab.research.google.com/github/haddocking/haddock3/blob/main/notebooks/HADDOCK3-antibody-antigen.ipynb#scrollTo=Rh-vaM_9woqM): this notebook runs in your web browser on Google Colab, so you need a Google account. It installs HADDOCK3 and downloads the tutorial data itself, so you do not need the VM for it.
 
 ## After the workshop
 
