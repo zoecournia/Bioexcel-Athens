@@ -92,6 +92,11 @@ unzip md-intro-tutorial-main.zip
 
 We will eventually use dataset available [here](https://drive.google.com/drive/folders/1ai3KklE8DbkB2q_ftitfIb2oGiIuhT_Z?usp=sharing)
 
+### BioBB — introduction and tutorial
+
+- [BioBB introduction](https://drive.google.com/file/d/1LHSAFWJIvMekxf1Pkzm7-CTOLNz6lnZ4)
+- [BioBB tutorial](https://drive.google.com/file/d/1Qe3SV9TJDHZPKCr0o0RZChR_Cal2kPlP)
+
 ### HADDOCK — tutorials
 
 - [HADDOCK tutorial: Modelling the RNA polymerase III complex using cross-links and starting conformations fitted into the cryo-EM map](https://www.bonvinlab.org/education/HADDOCK24/RNA-Pol-III/#modelling-the-complex-by-docking-with-cross-links-only-using-as-starting-conformations-the-models-fitted-into-the-cryo-em-map)
