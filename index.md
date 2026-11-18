@@ -30,9 +30,9 @@ All participants, on-site and online, need to set up the workshop virtual machin
 
 ## Workshop materials on Zenodo
 
-The workshop materials will be collected and archived on Zenodo.
+The workshop materials are being collected and archived on Zenodo.
 
-**[Workshop materials on Zenodo](https://zenodo.org/records/24335122)** (available once the record is published and the files are made public).
+**[Access the workshop materials on Zenodo](https://zenodo.org/records/24335122)**
 
 ---
 
