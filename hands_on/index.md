@@ -67,9 +67,9 @@ The username and password provided by the workshop organisers are both `user`.
 
 ## Workshop materials on Zenodo
 
-The workshop materials will be collected and archived on Zenodo.
+The workshop materials are being collected and archived on Zenodo.
 
-**[Workshop materials on Zenodo](https://zenodo.org/records/24335122)** (available once the record is published and the files are made public).
+**[Access the workshop materials on Zenodo](https://zenodo.org/records/24335122)**
 
 ## Hands-on tutorials
 
@@ -87,8 +87,10 @@ unzip md-intro-tutorial-main.zip
 
 ### VIAMD — download and installation
 
-- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.48 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.48).
+- **macOS and Windows:** Precompiled binaries are available from the [VIAMD v0.1.50 release page](https://github.com/scanberg/viamd/releases/tag/v0.1.50).
 - **Linux:** Follow the [VIAMD build and installation instructions](https://github.com/scanberg/viamd/wiki/0.-Building).
+
+We will eventually use dataset available [here](https://drive.google.com/drive/folders/1ai3KklE8DbkB2q_ftitfIb2oGiIuhT_Z?usp=sharing)
 
 ### HADDOCK — tutorials
 
