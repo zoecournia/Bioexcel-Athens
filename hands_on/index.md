@@ -69,7 +69,7 @@ The username and password provided by the workshop organisers are both `user`.
 
 The workshop materials are being collected and archived on Zenodo.
 
-**[Access the workshop materials on Zenodo](https://zenodo.org/records/24335122)**
+**[Access the workshop materials on Zenodo](https://doi.org/10.5281/zenodo.24335122)**
 
 ## Hands-on tutorials
 
